@@ -1,0 +1,23 @@
+:root {
+  font-family: 'DM Sans', 'Trebuchet MS', sans-serif;
+  color: #28312c;
+  background: #f5f1e9;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --ink: #28312c;
+  --muted: #788078;
+  --paper: #fffdf9;
+  --cream: #f5f1e9;
+  --line: #dedbd1;
+  --orange: #e7633e;
+  --green: #315748;
+  --serif: Georgia, 'Times New Roman', serif;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+a { color: inherit; }
