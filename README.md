@@ -1,6 +1,6 @@
 # 🚀 DevOps_2026
 
-A collection of web development, React, Node.js, MongoDB, and full-stack projects developed as part of my **B.Tech Computer Science & Engineering (AIML)** learning journey.
+A collection of web development, React, Node.js, MongoDB, and full-stack projects developed as part of my devops learning journey.
 
 This repository contains multiple projects demonstrating frontend development, backend APIs, authentication, database integration, and full-stack application development.
 
