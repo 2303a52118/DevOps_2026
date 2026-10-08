@@ -195,6 +195,30 @@ http://localhost:5000
 
 ---
 
+### 5. College Student Management Portal
+
+**Path:** `student-management-portal`
+
+A React and Vite portal for navigating college overview, student records, and course information.
+
+#### Features
+
+* Searchable student directory
+* Dynamic student and course detail routes
+* Loading and missing-record states
+* Responsive navigation with active route highlighting
+* 404 page and back navigation
+
+#### Run Locally
+
+```bash
+cd student-management-portal
+npm install
+npm run dev
+```
+
+---
+
 # 🛠️ Technology Stack
 
 | Category              | Technologies          |
